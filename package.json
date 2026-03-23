@@ -1,0 +1,8 @@
+{
+  "name": "git-hook",
+  "version": "1.0.0",
+  "description": "GitHub 工作流启动器",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
